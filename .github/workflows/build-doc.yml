@@ -1,4 +1,4 @@
-name: Docker Image CI
+name: Documenation Workflow
 
 on:
   push:
@@ -14,12 +14,12 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: Build the Docker image
+    - name: Build documentation 🛠
       run: docker run -v $PWD:/documents/ asciidoctor/docker-asciidoctor /usr/bin/asciidoctor index.adoc
-    - name: Deploy 🚀
+    - name: Deploy documentation 🚀
       uses: JamesIves/github-pages-deploy-action@3.7.1
       with:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        BRANCH: gh-pages # The branch the action should deploy to.
-        FOLDER: . # The folder the action should deploy.
-        CLEAN: true #
+        BRANCH: gh-pages
+        FOLDER: .
+        CLEAN: true
