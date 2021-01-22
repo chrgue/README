@@ -1,0 +1,7 @@
+= Intellij
+
+:url-toolbox: https://www.jetbrains.com/toolbox-app/
+
+
+{url-toolbox}[Jetbrains Toolbox App]:: Helps to install and update Jetbrains products.
+
