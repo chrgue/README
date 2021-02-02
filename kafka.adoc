@@ -1,7 +1,7 @@
-== Kafka
-
 :kafka-cat: https://github.com/edenhill/kafkacat
 :conductor: https://www.conduktor.io/
+
+== Kafka
 
 {kafka-cat}[Kafkacat]::
 kafkacat is a generic non-JVM producer and consumer for Apache Kafka
