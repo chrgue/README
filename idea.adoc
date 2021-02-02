@@ -1,7 +1,18 @@
 == Intellij
 
 :url-toolbox: https://www.jetbrains.com/toolbox-app/
-
+:plugin-presentation-assistent: https://plugins.jetbrains.com/plugin/7345-presentation-assistant
+:plugin-progress-bar: https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar
+:plugin-auto-save: https://plugins.jetbrains.com/plugin/7642-save-actions
 
 {url-toolbox}[Jetbrains Toolbox App]:: Helps to install and update Jetbrains products.
 
+
+=== Plugins
+
+{plugin-presentation-assistent}[Presentation Assistant]::
+Shows shortcuts I use. Useful for pair programming.
+{plugin-progress-bar}[Nyan Progress Bar]::
+Shows a funny progress bar.
+{plugin-auto-save}[Save Actions]::
+Configures what should happen if a file will be saved.
