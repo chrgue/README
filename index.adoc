@@ -5,3 +5,4 @@
 :icons: font
 
 include::idea.adoc[]
+include::kafka.adoc[]
