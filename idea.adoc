@@ -11,7 +11,7 @@
 === Plugins
 
 {plugin-presentation-assistent}[Presentation Assistant]::
-Shows shortcuts I use. Useful for pair programming.
+This plugin shows name and Win/Mac shortcuts of any action you invoke. Useful for pair programming.
 {plugin-progress-bar}[Nyan Progress Bar]::
 Shows a funny progress bar.
 {plugin-auto-save}[Save Actions]::
