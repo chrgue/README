@@ -2,6 +2,7 @@
 :conductor: https://www.conduktor.io/
 
 === Kafka
+image::https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/154px-Apache_kafka.svg.png[align="right", width=10%]
 
 Tools I use when working with kafka.
 
