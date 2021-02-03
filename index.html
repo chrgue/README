@@ -445,12 +445,12 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <div id="toc" class="toc2">
 <div id="toctitle">Table of Contents</div>
 <ul class="sectlevel1">
-<li><a href="#_development_environment">Development Environment</a>
+<li><a href="#_environment">Environment</a>
 <ul class="sectlevel2">
 <li><a href="#_intellij">Intellij</a></li>
 <li><a href="#_kafka">Kafka</a></li>
 <li><a href="#_operating_system">Operating System</a></li>
-<li><a href="#_terminal_2">Terminal</a></li>
+<li><a href="#_terminal">Terminal</a></li>
 </ul>
 </li>
 </ul>
@@ -458,7 +458,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 </div>
 <div id="content">
 <div class="sect1">
-<h2 id="_development_environment">Development Environment</h2>
+<h2 id="_environment">Environment</h2>
 <div class="sectionbody">
 <div class="sect2">
 <h3 id="_intellij">Intellij</h3>
@@ -510,6 +510,9 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 </dd>
 </dl>
 </div>
+<div class="paragraph">
+<p>include::kubernetes.adoc</p>
+</div>
 </div>
 <div class="sect2">
 <h3 id="_operating_system">Operating System</h3>
@@ -520,43 +523,20 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <pre class="highlight"><code class="language-bash" data-lang="bash">sudo apt install git wget curl xclip httpcode httpie silversearcher-ag apache2-utils kafkacat jq nodejs</code></pre>
 </div>
 </div>
-</div>
-<div class="sect3">
-<h4 id="_terminal">Terminal</h4>
-<div class="listingblock">
-<div class="content">
-<pre class="highlight"><code class="language-bash" data-lang="bash">curl https://raw.githubusercontent.com/viasite-ansible/ansible-role-zsh/master/install.sh | bash</code></pre>
-</div>
-</div>
-</div>
-<div class="sect3">
-<h4 id="_kubernetes">Kubernetes</h4>
-<div class="listingblock">
-<div class="content">
-<pre class="highlight"><code class="language-bash" data-lang="bash">https://github.com/ahmetb/kubectx</code></pre>
-</div>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p>Install via Krew Plugin Manager</p>
 <div class="dlist">
 <dl>
 <dt class="hdlist1">Health</dt>
 </dl>
 </div>
-</li>
-</ul>
-</div>
 <div class="listingblock">
 <div class="content">
-<pre>snap install stretchly</pre>
+<pre class="highlight"><code class="language-bash" data-lang="bash">snap install stretchly</code></pre>
 </div>
 </div>
 </div>
 </div>
 <div class="sect2">
-<h3 id="_terminal_2">Terminal</h3>
+<h3 id="_terminal">Terminal</h3>
 <div class="paragraph">
 <p>The terminal is one of the most important tools in my daily business.</p>
 </div>
@@ -575,7 +555,7 @@ It installs zsh, ohmyzsh, and various plugins all in one shot!</p>
 </div>
 <div id="footer">
 <div id="footer-text">
-Last updated 2021-02-03 13:29:55 UTC
+Last updated 2021-02-03 13:45:10 UTC
 </div>
 </div>
 </body>

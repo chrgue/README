@@ -1,0 +1,12 @@
+:install: https://kubernetes.io/docs/tasks/tools/install-kubectl/#install-using-native-package-management
+:kubectx: https://github.com/ahmetb/kubectx
+=== Kubernetes
+
+==== kubectl
+Tool to interact with your cluster.
+Just follow the instructions to install instructions from {install}[here].
+
+==== kubectx & kubens
+If you work with different clusters or namespaces you may searching for a tool to switching fast in the terminal.
+
+{kubectx}[visit kubectx & kubens]

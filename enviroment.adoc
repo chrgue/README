@@ -1,8 +1,10 @@
-== Development Environment
+== Environment
 
 include::idea.adoc[]
 
 include::kafka.adoc[]
+
+include::kubernetes.adoc
 
 include::os.adoc[]
 
