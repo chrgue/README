@@ -7,3 +7,5 @@
 include::idea.adoc[]
 
 include::kafka.adoc[]
+
+include::os.adoc[]
