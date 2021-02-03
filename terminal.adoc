@@ -1,7 +1,7 @@
 :ansible-zsh: https://github.com/viasite-ansible/ansible-role-zsh
 ===  Terminal
 
-The terminal is one of my most important tool I use in my daily business.
+The terminal is one of the most important tools in my daily business.
 
 I use a {ansible-zsh}[ansible role] to have a good starting point.
 It installs zsh, ohmyzsh, and various plugins all in one shot!
