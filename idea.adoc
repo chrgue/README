@@ -4,6 +4,7 @@
 :plugin-auto-save: https://plugins.jetbrains.com/plugin/7642-save-actions
 
 === Intellij
+image::https://pbs.twimg.com/profile_images/1206618215767584769/zl48EuhC_400x400.jpg
 
 IntelliJ is my favorite IDE. So here you find useful stuff if working with this awesome IDE.
 
