@@ -1,6 +1,7 @@
 :install: https://kubernetes.io/docs/tasks/tools/install-kubectl/#install-using-native-package-management
 :kubectx: https://github.com/ahmetb/kubectx
 === Kubernetes
+image::https://user-images.githubusercontent.com/19824574/41482054-47a3a702-70a2-11e8-9561-de51c5f71220.png[align="right", width=25%]
 
 ==== kubectl
 Tool to interact with your cluster.
