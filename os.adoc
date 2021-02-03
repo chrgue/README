@@ -8,22 +8,6 @@ sudo apt install git wget curl xclip httpcode httpie silversearcher-ag apache2-u
 ----
 
 
-==== Terminal
-[source, bash]
-----
-curl https://raw.githubusercontent.com/viasite-ansible/ansible-role-zsh/master/install.sh | bash
-----
-
-==== Kubernetes
-
-[source, bash]
-----
-https://github.com/ahmetb/kubectx
-----
-
-* Install via Krew Plugin Manager
-
-
 Health::
 [source, bash]
 ----
