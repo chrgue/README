@@ -4,7 +4,7 @@ include::idea.adoc[]
 
 include::kafka.adoc[]
 
-include::kubernetes.adoc
+include::kubernetes.adoc[]
 
 include::os.adoc[]
 
