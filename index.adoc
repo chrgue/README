@@ -4,8 +4,4 @@
 :toc: left
 :icons: font
 
-include::idea.adoc[]
-
-include::kafka.adoc[]
-
-include::os.adoc[]
+include::enviroment.adoc[]
