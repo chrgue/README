@@ -8,4 +8,10 @@ include::idea.adoc[]
 
 include::kafka.adoc[]
 
+include::java.adoc[]
+
+include::node.adoc[]
+
+include::docker.adoc[]
+
 include::kubernetes.adoc[]
