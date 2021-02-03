@@ -5,3 +5,5 @@ include::idea.adoc[]
 include::kafka.adoc[]
 
 include::os.adoc[]
+
+include::terminal.adoc[]
