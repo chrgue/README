@@ -1,14 +1,16 @@
-== Intellij
-
 :url-toolbox: https://www.jetbrains.com/toolbox-app/
 :plugin-presentation-assistent: https://plugins.jetbrains.com/plugin/7345-presentation-assistant
 :plugin-progress-bar: https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar
 :plugin-auto-save: https://plugins.jetbrains.com/plugin/7642-save-actions
 
+=== Intellij
+
+IntelliJ is my favorite IDE. So here you find useful stuff if working with this awesome IDE.
+
 {url-toolbox}[Jetbrains Toolbox App]:: Helps to install and update Jetbrains products.
 
 
-=== Plugins
+==== Plugins
 
 {plugin-presentation-assistent}[Presentation Assistant]::
 This plugin shows name and Win/Mac shortcuts of any action you invoke. Useful for pair programming.
